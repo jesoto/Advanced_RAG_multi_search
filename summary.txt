@@ -1,0 +1,73 @@
+1. On February 17, 2024, Rod Stewart sold his musical rights for an undisclosed amount. 
+
+2. Elon Musk reignited his dispute with OpenAI CEO, Sam Altman, on February 16, 2024, over OpenAI's decision to abandon its non-profit model.
+
+3. OpenAI introduced Sora, an AI generative model, on February 17, 2024, acknowledging that the model still faces significant challenges.
+
+4. In August 2024, wildfires in Maui led to Jeff Bezos and his fiancée Lauren Sánchez launching a $100 million fund to help the victims.
+
+5. Jeff Bezos owns a house in Maui and lent his helicopter to the Maui Fire Department for worker transportation in August 2024.
+
+6. Elon Musk launched an independent AI company, xAI, in November 2024, with its first product being an AI chatbot named Grok.
+
+7. As of an unspecified date, Forbes valued Elon Musk at $205.5 billion, making him the second richest person in the world.
+
+8. OpenAI introduced Sora, an AI capable of creating hyper-realistic videos, on February 16, 2024, and user Carolina Borges was pranked with a Rick Roll video.
+
+9. On February 17, 2024, El Confidencial published an article about Sora, OpenAI's latest AI.
+
+10. On February 24, 2017, Sam Altman, CEO of OpenAI, discussed investing seven trillion dollars in AI chips.
+
+11. Sam Altman returned as the CEO of OpenAI on November 22, 2023, after being fired by the board a few days earlier.
+
+12. Sam Altman discussed investing seven trillion dollars in chips on February 17, 2024, potentially threatening NVIDIA's privileged position in the industry.
+
+13. Sam Altman and Greg Brockman were removed from their positions at OpenAI on November 17, 2023, but returned four days later.
+
+14. OpenAI was founded in December 2015 by a group of individuals including Sam Altman and Elon Musk.
+
+15. OpenAI Codex, an AI model that generates code, powers GitHub Copilot and was trained on 159 gigabytes of Python code from 54 million GitHub repositories.
+
+16. OpenAI's chatbot, ChatGPT, launched on November 30, 2022, and had over 100 million users by January 2023.
+
+17. OpenAI Five, a computer program developed by OpenAI, first appeared publicly in 2017, defeating professional player Dendi in a one-on-one Dota 2 game.
+
+18. OpenAI, founded in December 2015, was valued at US$80 billion as of October 2023. Sam Altman took over the company following Elon Musk's resignation in 2018.
+
+19. Google developed a generative AI chatbot, initially named Bard and later renamed Gemini, in response to OpenAI's ChatGPT.
+
+20. Generative AI (GenAI or GAI) is a type of artificial intelligence that can generate text, images, or other data using generative models.
+
+21. Samuel Harris Altman, born on April 22, 1985, co-founded Loopt in 2005 and joined Y Combinator in 2011. He has been the CEO of OpenAI since 2019.
+
+22. AGI, also known as strong AI, full AI, human-level AI, or general intelligent action, is a hypothetical intelligent agent that could perform any intellectual task that humans or animals can do.
+
+23. Whisper, a machine learning model for speech recognition and transcription, was created by OpenAI and first released as open-source software in September 2022.
+
+24. Generative pre-trained transformers (GPTs) are large language models (LLMs) used in natural language processing tasks.
+
+25. OpenAI launched the Generative Pre-trained Transformer 4 (GPT-4) on March 14, 2023.
+
+26. Google DeepMind developed a family of multimodal large language models called Gemini, which powers Google's AI chatbot, also named Gemini.
+
+27. Perplexity AI, a conversational search engine, was launched in 2022. It uses the Perplexity model based on OpenAI's GPT-3.5 model and the company's standalone Large language model (LLM).
+
+28. Greg Brockman, a co-founder and president of OpenAI, left Stripe in 2015 to co-found OpenAI.
+
+29. OpenAI released the Generative Pre-trained Transformer 3 (GPT-3) in 2020.
+
+30. Large Language Models (LLMs) are artificial neural networks capable of general-purpose language generation and understanding.
+
+31. The AI boom, also known as AI spring, is a period of rapid progress in artificial intelligence.
+
+32. Mira Murati, born on December 16, 1988, in Vlorë, Albania, is the Chief Technology Officer at OpenAI.
+
+33. Emmett Shear, co-founder of Justin.tv and former CEO of Twitch, briefly served as interim CEO of OpenAI in November 2023.
+
+34. X.AI Corp., also known as xAI, is an American startup company in the field of artificial intelligence (AI), founded by Elon Musk in March 2023.
+
+35. Toran Bruce Richards, a game developer at Significant Gravitas Ltd, released Auto-GPT, an autonomous AI agent using OpenAI's GPT-4 or GPT-3.5 APIs, on March 30, 2023.
+
+36. Elon Musk, born in South Africa in 1971, is a multi-faceted businessman and investor, holding key positions in companies like SpaceX, Tesla, X Corp, and OpenAI.
+
+37. Wojciech Zaremba, a Polish computer scientist born in 1988, is a founding member of OpenAI and leads the Codex research and language teams.
